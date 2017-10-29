@@ -29,7 +29,7 @@ onecoは地域に密着した貯金アプリケーションです。onecoが定�
 
 #### 2. 特長2「地域限定の仮想通貨」を通じて、地域活性に繋げる
 例えば、千葉県の仮想通貨「ちば」をonecoで稼いで使うことができるのは、千葉県に住む人だけです。「ちば」を千葉県の中で循環させることで、活性化に繋げます。
-![jphacks_](https://user-images.githubusercontent.com/32733900/32140403-d3c57080-bca2-11e7-9c91-d2a72e82d5d1.jpg)
+![jphacks_](https://user-images.githubusercontent.com/32733900/32140420-1d801be4-bca3-11e7-952b-8b87ce749a95.jpg)
 
 
 #### 3. 特長3「IoTを通じて楽しい体験」
