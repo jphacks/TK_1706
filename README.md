@@ -1,6 +1,5 @@
 # oneco
 ![jphack_lp](https://user-images.githubusercontent.com/32733900/32139844-43b4681e-bc90-11e7-9243-88c46891f13b.jpg)
-![_1](https://user-images.githubusercontent.com/32733900/32140035-e825f2fa-bc95-11e7-83e0-8c562f487252.gif)
 
 # MOVE
 ![img_0747](https://user-images.githubusercontent.com/32733900/32139875-d911a394-bc91-11e7-955c-1eb84d580ad4.JPG)
