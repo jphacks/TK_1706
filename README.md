@@ -1,4 +1,4 @@
-# 子供の何気ない行動が仕事になる
+# 「子供の何気ない行動がお仕事になる」
 [![MOBU](https://user-images.githubusercontent.com/32125776/32140424-2b67363e-bca3-11e7-9005-b5fbeac5a471.png)
 ](https://youtu.be/l2SU9403NDQ)
 # oneco
