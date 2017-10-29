@@ -1,7 +1,6 @@
 # oneco
 
-TK_1706/jphack_LP.jpg
-
+https://drive.google.com/file/d/0B3FCRsZgSUEvLXF1VVdYQUk5c1U/view?usp=sharing
 
 ## 製品概要
 ### Local × Tech(地方×テクノロジー)
