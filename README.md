@@ -1,3 +1,5 @@
+#子供の何気ない行動が仕事になる
+[![mobu](https://youtu.be/l2SU9403NDQ)
 # oneco
 ![jphack_lp](https://user-images.githubusercontent.com/32733900/32139844-43b4681e-bc90-11e7-9243-88c46891f13b.jpg)
 
